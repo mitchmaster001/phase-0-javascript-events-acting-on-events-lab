@@ -6,7 +6,7 @@
 }
 
 #game {
-  background-color: #111;
+  background-color: black;
   height: 400px;
   margin: 0 auto;
   overflow: hidden;
@@ -24,8 +24,8 @@
 }
 
 .rock {
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
   background: tan;
   position: absolute;
 }
